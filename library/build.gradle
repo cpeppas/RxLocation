@@ -10,7 +10,6 @@ project.archivesBaseName = 'rxlocation'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
-
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 25
